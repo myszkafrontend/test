@@ -16,7 +16,7 @@ const smalText = () => {
 }
 
 const colorText = () => {
-	p.style.color = 'blue'
+	p.style.color = 'red'
 }
 
 sizeUpBtn.addEventListener('click', bigText)
